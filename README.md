@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0389-find-the-difference) |
+| [0434-number-of-segments-in-a-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0434-number-of-segments-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
