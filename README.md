@@ -7,6 +7,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0283-move-zeroes) |
 | [1991-find-the-middle-index-in-array](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1991-find-the-middle-index-in-array) |
 ## Prefix Sum
 |  |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
