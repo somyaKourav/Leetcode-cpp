@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0283-move-zeroes) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1991-find-the-middle-index-in-array](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1991-find-the-middle-index-in-array) |
 ## Prefix Sum
 |  |
@@ -23,6 +24,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0389-find-the-difference) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -33,8 +35,13 @@
 | ------- |
 | [0389-find-the-difference](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0434-number-of-segments-in-a-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0389-find-the-difference) |
+## Counting
+|  |
+| ------- |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 <!---LeetCode Topics End-->
