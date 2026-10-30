@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0283-move-zeroes) |
+| [0867-transpose-matrix](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0867-transpose-matrix) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1991-find-the-middle-index-in-array](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1991-find-the-middle-index-in-array) |
 ## Prefix Sum
@@ -54,9 +55,14 @@
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1688-count-of-matches-in-tournament) |
 ## Greedy
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1903-largest-odd-number-in-string) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
