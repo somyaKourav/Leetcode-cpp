@@ -54,6 +54,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0069-sqrtx) |
 | [1688-count-of-matches-in-tournament](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
@@ -89,4 +90,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
