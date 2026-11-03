@@ -27,12 +27,14 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0389-find-the-difference) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -40,6 +42,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0434-number-of-segments-in-a-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1160-find-words-that-can-be-formed-by-characters) |
