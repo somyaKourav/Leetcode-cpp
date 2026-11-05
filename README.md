@@ -25,11 +25,13 @@
 | ------- |
 | [0027-remove-element](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0283-move-zeroes) |
 | [2540-minimum-common-value](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0389-find-the-difference) |
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1903-largest-odd-number-in-string) |
@@ -113,4 +116,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0069-sqrtx) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
