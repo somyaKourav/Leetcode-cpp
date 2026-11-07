@@ -14,6 +14,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1991-find-the-middle-index-in-array](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2540-minimum-common-value) |
@@ -46,6 +47,7 @@
 | [0389-find-the-difference](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
@@ -115,6 +117,7 @@
 | [0069-sqrtx](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2540-minimum-common-value) |
 ## Newton's Method
