@@ -15,6 +15,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1991-find-the-middle-index-in-array](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2540-minimum-common-value) |
@@ -48,6 +49,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
@@ -138,4 +140,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0258-add-digits) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
