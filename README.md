@@ -19,6 +19,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2540-minimum-common-value) |
+| [2706-buy-two-chocolates](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2706-buy-two-chocolates) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2706-buy-two-chocolates](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2706-buy-two-chocolates) |
 ## String
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1903-largest-odd-number-in-string) |
+| [2706-buy-two-chocolates](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2706-buy-two-chocolates) |
 ## Matrix
 |  |
 | ------- |
