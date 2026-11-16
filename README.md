@@ -30,6 +30,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0283-move-zeroes) |
 | [2540-minimum-common-value](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2540-minimum-common-value) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0389-find-the-difference) |
