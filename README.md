@@ -14,6 +14,7 @@
 | [0704-binary-search](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0867-transpose-matrix) |
 | [0976-largest-perimeter-triangle](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0976-largest-perimeter-triangle) |
+| [1089-duplicate-zeros](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1089-duplicate-zeros) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -35,6 +36,7 @@
 | [0125-valid-palindrome](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0283-move-zeroes) |
+| [1089-duplicate-zeros](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1089-duplicate-zeros) |
 | [2540-minimum-common-value](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
