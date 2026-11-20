@@ -47,6 +47,7 @@
 | [0389-find-the-difference](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0389-find-the-difference) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1496-path-crossing](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1496-path-crossing) |
+| [2325-decode-the-message](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2325-decode-the-message) |
 | [2540-minimum-common-value](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
@@ -76,6 +77,7 @@
 | [1496-path-crossing](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1496-path-crossing) |
 | [1903-largest-odd-number-in-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1903-largest-odd-number-in-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2325-decode-the-message](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2325-decode-the-message) |
 ## Bit Manipulation
 |  |
 | ------- |
