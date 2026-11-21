@@ -14,6 +14,7 @@
 | [0704-binary-search](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0867-transpose-matrix) |
 | [0976-largest-perimeter-triangle](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0976-largest-perimeter-triangle) |
+| [0989-add-to-array-form-of-integer](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0989-add-to-array-form-of-integer) |
 | [1089-duplicate-zeros](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1089-duplicate-zeros) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -97,6 +98,7 @@
 | [0258-add-digits](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0976-largest-perimeter-triangle) |
+| [0989-add-to-array-form-of-integer](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0989-add-to-array-form-of-integer) |
 | [1688-count-of-matches-in-tournament](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
