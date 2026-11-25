@@ -78,6 +78,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1496-path-crossing](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1496-path-crossing) |
 | [1903-largest-odd-number-in-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1903-largest-odd-number-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2325-decode-the-message](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2325-decode-the-message) |
 ## Bit Manipulation
@@ -108,6 +109,7 @@
 | [0258-add-digits](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1688-count-of-matches-in-tournament) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -183,4 +185,5 @@
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
