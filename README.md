@@ -37,6 +37,7 @@
 | [0125-valid-palindrome](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0283-move-zeroes) |
+| [0647-palindromic-substrings](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0680-valid-palindrome-ii) |
 | [1089-duplicate-zeros](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1089-duplicate-zeros) |
 | [2540-minimum-common-value](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2540-minimum-common-value) |
@@ -75,6 +76,7 @@
 | [0242-valid-anagram](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0434-number-of-segments-in-a-string) |
+| [0647-palindromic-substrings](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -189,4 +191,8 @@
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
