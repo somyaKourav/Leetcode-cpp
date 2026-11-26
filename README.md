@@ -48,6 +48,7 @@
 | [0217-contains-duplicate](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0389-find-the-difference) |
+| [0791-custom-sort-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0791-custom-sort-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1496-path-crossing](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1496-path-crossing) |
 | [2325-decode-the-message](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2325-decode-the-message) |
@@ -61,6 +62,7 @@
 | [0389-find-the-difference](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0628-maximum-product-of-three-numbers) |
+| [0791-custom-sort-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0791-custom-sort-string) |
 | [0976-largest-perimeter-triangle](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0976-largest-perimeter-triangle) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -78,6 +80,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0434-number-of-segments-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0680-valid-palindrome-ii) |
+| [0791-custom-sort-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0791-custom-sort-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1496-path-crossing](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1496-path-crossing) |
