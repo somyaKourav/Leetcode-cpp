@@ -24,12 +24,14 @@
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1991-find-the-middle-index-in-array](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2540-minimum-common-value](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2540-minimum-common-value) |
 | [2706-buy-two-chocolates](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2706-buy-two-chocolates) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1991-find-the-middle-index-in-array](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1991-find-the-middle-index-in-array) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2325-decode-the-message](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2325-decode-the-message) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Bit Manipulation
 |  |
 | ------- |
