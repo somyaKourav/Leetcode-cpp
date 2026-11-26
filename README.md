@@ -13,6 +13,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0867-transpose-matrix) |
+| [0890-find-and-replace-pattern](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0890-find-and-replace-pattern) |
 | [0976-largest-perimeter-triangle](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0989-add-to-array-form-of-integer) |
 | [1089-duplicate-zeros](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1089-duplicate-zeros) |
@@ -49,6 +50,7 @@
 | [0242-valid-anagram](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0389-find-the-difference) |
 | [0791-custom-sort-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0791-custom-sort-string) |
+| [0890-find-and-replace-pattern](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0890-find-and-replace-pattern) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1496-path-crossing](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1496-path-crossing) |
 | [2325-decode-the-message](https://github.com/somyaKourav/Leetcode-cpp/tree/master/2325-decode-the-message) |
@@ -81,6 +83,7 @@
 | [0647-palindromic-substrings](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0680-valid-palindrome-ii) |
 | [0791-custom-sort-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0791-custom-sort-string) |
+| [0890-find-and-replace-pattern](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0890-find-and-replace-pattern) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1496-path-crossing](https://github.com/somyaKourav/Leetcode-cpp/tree/master/1496-path-crossing) |
