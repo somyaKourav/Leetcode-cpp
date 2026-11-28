@@ -7,6 +7,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0027-remove-element) |
 | [0179-largest-number](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0561-array-partition) |
@@ -109,6 +110,7 @@
 | [0007-reverse-integer](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0628-maximum-product-of-three-numbers) |
@@ -181,6 +183,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0258-add-digits) |
 ## Quicksort
 |  |
@@ -204,4 +207,20 @@
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0647-palindromic-substrings) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/somyaKourav/Leetcode-cpp/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
